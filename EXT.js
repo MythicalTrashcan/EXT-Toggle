@@ -1,1 +1,1 @@
-Alert("Closed Temporarly because I heard of an imposter!")
+alert("Closed Temporarly because I heard of an imposter!")

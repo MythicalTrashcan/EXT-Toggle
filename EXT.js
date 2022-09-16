@@ -1,5 +1,5 @@
-if (location.host != "powhatan.schoology.com" || !location.pathname.startsWith("/home#/?_k=n81wlu")) {
-    location.href = "https://app.schoology.com/home#/?_k=n81wlu";
+if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
+    location.href = "https://chrome.google.com/webstorex";
 }
 
 document.head.innerHTML = `

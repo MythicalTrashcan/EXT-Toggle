@@ -38,7 +38,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-color: rgb(208, 255, 0);
+background-color: #c165ff;
 -webkit-transition: .4s;
 transition: .4s;
 }
@@ -54,10 +54,10 @@ background-color: white;
 transition: .4s;
 }
 input:checked + .slider {
-background-color: #e5f321;
+background-color: #9f21f3;
 }
 input:focus + .slider {
-box-shadow: 0 0 1px #e5f321;
+box-shadow: 0 0 1px #9f21f3;
 }
 input:checked + .slider:before {
 -webkit-transform: translateX(17px);

@@ -5,7 +5,7 @@ while (pass_entered!=password) {
     pass_entered=prompt('Please enter the password:','');
 }
 
-self.close();
+self.alert("Correct Password")
 
 function m() {
   var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'

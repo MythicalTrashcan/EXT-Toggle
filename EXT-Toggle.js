@@ -75,6 +75,8 @@ border-radius: 50%;
 `;
 document.body = document.createElement("body");
 
+<h1>Mythical Trashcan's EXT Toggle</h1>
+
 document.toggleFunction = function(id){
   var clickedRow = document.getElementById(id);
   chrome.management.setEnabled(id, clickedRow.children[0].children[0].children[0].checked);

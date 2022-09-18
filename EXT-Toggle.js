@@ -3,7 +3,7 @@ if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webs
 }
 
 document.head.innerHTML = `
-<h1>Mythical Trashcan's EXT Toggle
+<h1>Mythical Trashcan's EXT Toggle</h1>
 <style>
 tr:nth-child(even){background-color: #f2f2f2;}
 tr:hover {background-color: #ddd;}

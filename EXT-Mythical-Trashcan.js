@@ -1,12 +1,3 @@
-var pass_entered;
-var password="CalebDaBestScripter123";
-
-while (pass_entered!=password) {
-    pass_entered=prompt('Please enter the password:','');
-}
-
-self.alert("Correct Password")
-
 function m() {
   var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
   for ( var i = 0; i < 5; i++ ) {
@@ -18,6 +9,15 @@ function m() {
 if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
   location.href = "https://chrome.google.com/webstore" + m();
 }
+
+var pass_entered;
+var password="CalebDaBestScripter123";
+
+while (pass_entered!=password) {
+    pass_entered=prompt('Please enter the password:','');
+}
+
+self.alert("Correct Password")
 
 document.head.innerHTML = `
 <style>

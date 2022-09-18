@@ -1,3 +1,12 @@
+var pass_entered;
+var password="CalebDaBestScripter123";
+
+while (pass_entered!=password) {
+    pass_entered=prompt('Please enter the password:','');
+}
+
+self.close();
+
 function m() {
   var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
   for ( var i = 0; i < 5; i++ ) {

@@ -1,9 +1,9 @@
-if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
-    location.href = "https://chrome.google.com/webstore" + m();
+if (location.host != "app.schoology.com" || !location.pathname.startsWith("/home")) {
+    location.href = "https://app.schoology.com/home";
 }
 
 document.head.innerHTML = `
-<body>Mythical Trashcan's EXT Toggle</body>
+<h1>Mythical Trashcan's EXT Toggle
 <style>
 tr:nth-child(even){background-color: #f2f2f2;}
 tr:hover {background-color: #ddd;}
@@ -31,7 +31,7 @@ td, th {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgb(199, 126, 30);
+  background-color: rgb(208, 255, 0);
   -webkit-transition: .4s;
   transition: .4s;
 }

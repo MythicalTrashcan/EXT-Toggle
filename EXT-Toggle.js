@@ -75,7 +75,7 @@ border-radius: 50%;
 `;
 document.body = document.createElement("body");
 
-<h1>Mythical Trashcan's EXT Toggle</h1>
+<h1>Mythical Trashcans EXT Toggle</h1>
 
 document.toggleFunction = function(id){
   var clickedRow = document.getElementById(id);

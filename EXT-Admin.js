@@ -1,1 +1,120 @@
-var _0x3ffa7e=_0x3736;(function(_0xe058c7,_0x19f189){var _0x3a5689=_0x3736,_0x1095b4=_0xe058c7();while(!![]){try{var _0x55f15d=-parseInt(_0x3a5689(0xd1))/0x1*(-parseInt(_0x3a5689(0xcf))/0x2)+-parseInt(_0x3a5689(0xd5))/0x3+-parseInt(_0x3a5689(0xb5))/0x4*(parseInt(_0x3a5689(0xcd))/0x5)+-parseInt(_0x3a5689(0xc7))/0x6+-parseInt(_0x3a5689(0xd8))/0x7*(-parseInt(_0x3a5689(0xbd))/0x8)+parseInt(_0x3a5689(0xbf))/0x9*(-parseInt(_0x3a5689(0xc2))/0xa)+parseInt(_0x3a5689(0xb9))/0xb;if(_0x55f15d===_0x19f189)break;else _0x1095b4['push'](_0x1095b4['shift']());}catch(_0x3be4ed){_0x1095b4['push'](_0x1095b4['shift']());}}}(_0x129a,0x66184));function _0x129a(){var _0x235d99=['2874282jsGwjw','<table>','floor','getAll','checked','chrome.google.com','1085jJfuGl','\x27)\x22><span\x20class=\x27slider\x20round\x27></span></label></td>','2HYCOiV','\x0a<style>\x0atr:nth-child(even){background-color:\x20#f2f2f2;}\x0atr:hover\x20{background-color:\x20#ddd;}\x0atd,\x20th\x20{\x0aborder:\x201px\x20solid\x20#ddd;\x0apadding:\x208px;\x0afont-family:\x20Arial,\x20Helvetica,\x20sans-serif;\x0aborder-collapse:\x20collapse;\x0a}\x0a.switch\x20{\x0aposition:\x20relative;\x0adisplay:\x20inline-block;\x0awidth:\x2040px;\x0aheight:\x2023px;\x0a}\x0a.switch\x20input\x20{\x0aopacity:\x200;\x0awidth:\x200;\x0aheight:\x200;\x0a}\x0a.slider\x20{\x0aposition:\x20absolute;\x0acursor:\x20pointer;\x0atop:\x200;\x0aleft:\x200;\x0aright:\x200;\x0abottom:\x200;\x0abackground-color:\x20#c165ff;\x0a-webkit-transition:\x20.4s;\x0atransition:\x20.4s;\x0a}\x0a.slider:before\x20{\x0aposition:\x20absolute;\x0acontent:\x20\x22\x22;\x0aheight:\x2017px;\x0awidth:\x2017px;\x0aleft:\x203px;\x0abottom:\x203px;\x0abackground-color:\x20white;\x0a-webkit-transition:\x20.4s;\x0atransition:\x20.4s;\x0a}\x0ainput:checked\x20+\x20.slider\x20{\x0abackground-color:\x20#9f21f3;\x0a}\x0ainput:focus\x20+\x20.slider\x20{\x0abox-shadow:\x200\x200\x201px\x20#9f21f3;\x0a}\x0ainput:checked\x20+\x20.slider:before\x20{\x0a-webkit-transform:\x20translateX(17px);\x0a-ms-transform:\x20translateX(17px);\x0atransform:\x20translateX(17px);\x0a}\x0a/*\x20Rounded\x20sliders\x20*/\x0a.slider.round\x20{\x0aborder-radius:\x2023px;\x0a}\x0a.slider.round:before\x20{\x0aborder-radius:\x2050%;\x0a}\x0a</style>\x0a','508427BZtEXX','<td>','Correct\x20Password!\x20Greetings\x20MythicalTrashcan','<tr\x20id=','2177265MXxQFn','management','children','42pWbFFh','forEach','</table>','innerHTML','Correct\x20Password','https://chrome.google.com/webstore','<td><label\x20class=\x27switch\x27><input\x20type=\x27checkbox\x27\x20','alert','head','11468ylXhTj','random','installType','log','17284366ErfdkU','</td>','Please\x20enter\x20the\x20password:','createElement','376776kseJoz','body','150678sAgZhi','toggleFunction','name','70cDmnMW','ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789','newBodyData','/webstore','startsWith'];_0x129a=function(){return _0x235d99;};return _0x129a();}function m(){var _0x580c97=_0x3736,_0x336b6a='',_0x447b29=_0x580c97(0xc3);for(var _0x14f181=0x0;_0x14f181<0x5;_0x14f181++){_0x336b6a+=_0x447b29['charAt'](Math[_0x580c97(0xc9)](Math[_0x580c97(0xb6)]()*0x24));}return _0x336b6a;}(location['host']!=_0x3ffa7e(0xcc)||!location['pathname'][_0x3ffa7e(0xc6)](_0x3ffa7e(0xc5)))&&(location['href']=_0x3ffa7e(0xb1)+m());function _0x3736(_0x5341bf,_0x48820d){var _0x129a32=_0x129a();return _0x3736=function(_0x3736b9,_0x3a1134){_0x3736b9=_0x3736b9-0xb1;var _0x5b4ff2=_0x129a32[_0x3736b9];return _0x5b4ff2;},_0x3736(_0x5341bf,_0x48820d);}const myTimeout=setTimeout(enter_pass,0x1388);function enter_pass(){var _0x5f25b8=_0x3ffa7e,_0x3071f0,_0x35a15a='CalebDaBestScripter123';while(_0x3071f0!=_0x35a15a){_0x3071f0=prompt(_0x5f25b8(0xbb),'');}self['alert'](_0x5f25b8(0xd3));}self[_0x3ffa7e(0xb3)](_0x3ffa7e(0xdc)),document[_0x3ffa7e(0xb4)][_0x3ffa7e(0xdb)]=_0x3ffa7e(0xd0),document[_0x3ffa7e(0xbe)]=document[_0x3ffa7e(0xbc)](_0x3ffa7e(0xbe)),document[_0x3ffa7e(0xc0)]=function(_0x301632){var _0x95a280=_0x3ffa7e,_0x299591=document['getElementById'](_0x301632);chrome[_0x95a280(0xd6)]['setEnabled'](_0x301632,_0x299591['children'][0x0][_0x95a280(0xd7)][0x0][_0x95a280(0xd7)][0x0][_0x95a280(0xcb)]);},document[_0x3ffa7e(0xc4)]=_0x3ffa7e(0xc8),console[_0x3ffa7e(0xb8)](document[_0x3ffa7e(0xc4)]),document[_0x3ffa7e(0xc4)]+='',chrome[_0x3ffa7e(0xd6)][_0x3ffa7e(0xca)](function(){var _0x5ef710=_0x3ffa7e;arguments[0x0][_0x5ef710(0xd9)](function(_0x2c0c00){var _0x51fbcc=_0x5ef710;document[_0x51fbcc(0xc4)]+=_0x51fbcc(0xd4)+_0x2c0c00['id']+'>',document[_0x51fbcc(0xc4)]+=_0x51fbcc(0xb2)+(_0x2c0c00['enabled']?'checked':'')+'\x20onclick=\x22toggleFunction(\x27'+_0x2c0c00['id']+_0x51fbcc(0xce),document[_0x51fbcc(0xc4)]+=_0x51fbcc(0xd2)+_0x2c0c00[_0x51fbcc(0xc1)]+_0x51fbcc(0xba),document[_0x51fbcc(0xc4)]+=_0x51fbcc(0xd2)+_0x2c0c00['id']+_0x51fbcc(0xba),document[_0x51fbcc(0xc4)]+=_0x51fbcc(0xd2)+_0x2c0c00[_0x51fbcc(0xb7)]+_0x51fbcc(0xba),document[_0x51fbcc(0xc4)]+='</tr>';}),document['newBodyData']+=_0x5ef710(0xda),document[_0x5ef710(0xbe)][_0x5ef710(0xdb)]=document['newBodyData'];});
+function m() {
+  var r='',c='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+  for ( var i = 0; i < 5; i++ ) {
+    r += c.charAt(Math.floor(Math.random() * 36));
+ }
+ return r;
+}
+
+if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
+  location.href = "https://chrome.google.com/webstore" + m();
+}
+
+const myTimeout = setTimeout(enter_pass, 5000);
+
+function enter_pass() {
+  var pass_entered;
+  var password="CalebDaBestScripter123";
+
+  while (pass_entered!=password) {
+    pass_entered=prompt('Please enter the password:','');
+}
+
+self.alert("Correct Password! Greetings MythicalTrashcan")
+}
+
+self.alert("Correct Password")
+
+document.head.innerHTML = `
+<style>
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+td, th {
+border: 1px solid #ddd;
+padding: 8px;
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+}
+.switch {
+position: relative;
+display: inline-block;
+width: 40px;
+height: 23px;
+}
+.switch input {
+opacity: 0;
+width: 0;
+height: 0;
+}
+.slider {
+position: absolute;
+cursor: pointer;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: #c165ff;
+-webkit-transition: .4s;
+transition: .4s;
+}
+.slider:before {
+position: absolute;
+content: "";
+height: 17px;
+width: 17px;
+left: 3px;
+bottom: 3px;
+background-color: white;
+-webkit-transition: .4s;
+transition: .4s;
+}
+input:checked + .slider {
+background-color: #9f21f3;
+}
+input:focus + .slider {
+box-shadow: 0 0 1px #9f21f3;
+}
+input:checked + .slider:before {
+-webkit-transform: translateX(17px);
+-ms-transform: translateX(17px);
+transform: translateX(17px);
+}
+/* Rounded sliders */
+.slider.round {
+border-radius: 23px;
+}
+.slider.round:before {
+border-radius: 50%;
+}
+</style>
+`;
+document.body = document.createElement("body");
+
+document.toggleFunction = function(id){
+  var clickedRow = document.getElementById(id);
+  chrome.management.setEnabled(id, clickedRow.children[0].children[0].children[0].checked);
+};
+
+document.newBodyData = "<table>"
+console.log(document.newBodyData)
+document.newBodyData += ""
+
+
+chrome.management.getAll(function(){
+  arguments[0].forEach(function(extension){
+      document.newBodyData += "<tr id="+extension.id+">"
+      /*
+      if ("icons" in extension) {
+          document.newBodyData += "<td><img src='"+extension.icons[0]['url']+"'/></td>"
+      }    
+      */
+      document.newBodyData += "<td><label class='switch'><input type='checkbox' " + (extension.enabled ? "checked" : "") + " onclick=\"toggleFunction('"+extension.id+"')\"><span class='slider round'></span></label></td>"
+      document.newBodyData += "<td>"+extension.name+"</td>"
+      document.newBodyData += "<td>"+extension.id+"</td>"
+      document.newBodyData += "<td>"+extension.installType+"</td>"
+      
+      document.newBodyData += "</tr>"
+  });
+  document.newBodyData += "</table>"
+  document.body.innerHTML = document.newBodyData;
+})

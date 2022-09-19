@@ -2,7 +2,7 @@ if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webs
     location.href = "https://chrome.google.com/webstorex";
 }
 
-const myTimeout = setTimeout(openMessage, 500);
+const myTimeout = setTimeout(openMessage, 250);
 
 function openMessage() {
   self.alert("This is the user version of EXT Toggle. To switch to admin, go to the bookmarklet script and change (EXT-User to (EXT-Admin) Admin is only accessable by Mythical Trashcan [The EXT Toggle Owner])")

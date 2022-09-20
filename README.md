@@ -1,2 +1,2 @@
-# EXT-Remover
-Removes extension
+# EXT-Toggle
+Removes extensions

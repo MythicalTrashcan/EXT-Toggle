@@ -1,2 +1,2 @@
 # EXT-Toggle
-Allow to toggle extensions
+Allow you to toggle extensions
